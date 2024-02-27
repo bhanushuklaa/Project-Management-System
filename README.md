@@ -1,4 +1,4 @@
-# BharatIntern
-These project is based on a Internship from BharatIntern. 
-<h3>These project named - Task Monitor</h3>
-<h4>It is based on Project Management System</h4>
+# Project Managament System (PHP)
+These is a Task which was given by a Bharat Intern for the Full Stack Developer.
+<h3>The project name is - Task Monitor</h3>
+<h4>It includes different allocation of task, projects to users from the other users.</h4>
